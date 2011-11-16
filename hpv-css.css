@@ -1,0 +1,59 @@
+@charset utf-8;
+
+#hpv-details {
+ width:100%;
+}
+#hpv-details ul
+{
+  list-style-type:none;
+  margin:0;
+  padding:0;
+}
+#hpv-details li {
+	margin:0;
+	font-size:14px;
+}
+
+#hpv-details a
+{
+  display:block;
+  color:#FFF;
+  background-color:#036;
+  /*width:9em;*/
+  text-decoration:none;
+  border-bottom:1px solid #fff;
+  font-weight:700;
+	margin:0;
+  padding:3px 12px 3px 8px;
+}
+
+#hpv-details a:hover
+{
+  background-color:#369;
+  color:#FFF;
+}
+
+#hpv-details li li a
+{
+  display:block;
+  color:#FFF;
+	margin:0;
+  background-color:#69C;
+  /*width:9em;*/
+  text-decoration:none;
+  border-bottom:1px solid #fff;
+  font-weight:400;
+  padding:3px 3px 3px 17px;
+}
+#hpv-details li li li a
+{
+  display:block;
+  color:#FFF;
+	margin:0;
+  background-color:#00aeef;
+  /*width:9em;*/
+  text-decoration:none;
+  border-bottom:1px solid #fff;
+  font-weight:400;
+  padding:3px 3px 3px 26px;
+}
